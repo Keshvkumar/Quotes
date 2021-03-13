@@ -15,6 +15,12 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity
 {
 
+/*  Project_Name : Quotes
+    Technologies_used : Android Studio , git
+    Languages_used : Java , XML
+    Project_Author : Keshav Kumar Choudhary
+*/
+
     String quote_txt="";
     TextView quote;
 
